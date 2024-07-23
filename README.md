@@ -1,7 +1,7 @@
 ![Logo](Images/doc-logo.png)
 
 # TKDocumentParser
-`TKDocumentParser` is a Swift package for parsing documents. It provides a simple API to process and handle document content.
+`TKDocumentParser` is a Swift package designed to simplify the process of extracting plain text from various document formats, including **PDF** and **DOCX**. This package provides a straightforward API for handling different types of documents and retrieving their textual content.
 
 ## Table of Contents
 
