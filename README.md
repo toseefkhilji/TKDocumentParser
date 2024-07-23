@@ -1,6 +1,6 @@
-# TKDocumentParser
 ![Logo](Images/doc-logo.png)
 
+# TKDocumentParser
 `TKDocumentParser` is a Swift package for parsing documents. It provides a simple API to process and handle document content.
 
 ## Table of Contents
@@ -42,12 +42,6 @@ targets: [
 ]
 ```
 
-To include in Vapor project use this line code in `executableTarget`.
-
-```swift
-.product(name: "TKDocumentParser", package: "TKDocumentParser")
-```
-
 ## Usage
 
 TKDocumentParser allows you to get plain text from documents.
@@ -68,27 +62,7 @@ do {
 
 ## Documentation
 
-The complete documentation is available [here soon]().
-
-### Generating the Documentation
-
-To generate the DocC documentation, use the following command in the terminal:
-
-```bash
-swift package generate-documentation --target WingedSwift --output-path ./docs
-```
-
-```bash
-open ./docs/index.html
-```
-
-### Preview Documentation
-
-```
-swift package --disable-sandbox preview-documentation --target WingedSwift
-```
-
-- [http://localhost:8080/documentation/wingedswift](http://localhost:8080/documentation/wingedswift)
+##### Coming soon!!!
 
 
 ## Contribution
